@@ -1,0 +1,24 @@
+CREATE TABLE Product(
+	ProductId INT PRIMARY KEY AUTO_INCREMENT,
+	Name VARCHAR(30) , 
+	Price DOUBLE ,
+	Factory VARCHAR(80)
+);
+
+INSERT INTO Product(Name , Price , Factory) VALUES('A1' ,1, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A2' ,2, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A3' ,3, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A4' ,4, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A5' ,5, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A6' ,6, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A7' ,7, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A8' ,8, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A9' ,9, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A10' ,10, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A11' ,11, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A12' ,12, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A13' ,13, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A14' ,14, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A15' ,15, 'XXXXXXX');
+INSERT INTO Product(Name , Price , Factory) VALUES('A16' ,16, 'XXXXXXX');
+ 
